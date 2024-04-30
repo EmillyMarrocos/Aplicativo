@@ -9,9 +9,9 @@ class MinhaApp(App):
         # (R, G, B, A) -> R = G = B = 1 para branco, A = 1 para opacidade total
 
         # Criando um rótulo com texto preto
-        label= Label(text='Este é uma tela com fundo branco', color=(0, 0, 0, 1))
+        label= Label(text='Esta é uma tela com fundo branco', color=(0, 0, 0, 1))
         # (R, G, B, A) -> R = G = B = 0 para preto, A = 1 para opacidade total
         return label
     
-if __name__ == "__main__":
+if __name__ =="__main__":
     MinhaApp().run()
