@@ -1,3 +1,6 @@
+#Widgets Básicos: Label
+# Label - "font_size", "font_name" e "color"
+
 from kivy.app import App 
 from kivy.uix.label import Label
 from kivy.utils import get_color_from_hex

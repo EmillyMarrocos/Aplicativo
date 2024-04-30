@@ -1,3 +1,5 @@
+# Widgets Básicos: CheckBox
+
 from kivy.app import App
 from kivy.uix.checkbox import CheckBox
 

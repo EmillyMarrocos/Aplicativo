@@ -1,3 +1,5 @@
+#Label - "halign" e "valign"
+
 from kivy.app import App 
 from kivy.uix.label import Label
 

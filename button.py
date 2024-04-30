@@ -1,3 +1,8 @@
+# Widgets Básicos: Button
+# Button: font_size
+# Button: background_color
+
+
 from kivy.app import App 
 from kivy.uix.button import Button
 from kivy.utils import get_color_from_hex
